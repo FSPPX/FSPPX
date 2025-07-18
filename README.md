@@ -2,7 +2,7 @@
 
 ### 💻 Languages & Technologies
 **Languages:**  
-![Frameworks](https://skillicons.dev/icons?i=c,cpp,py,haskell,java,latex,bash&titles=true)
+![Frameworks](https://skillicons.dev/icons?i=c,cpp,py,haskell,rust,java,latex,bash&titles=true)
 
 **Frameworks, Tools & Platforms:**  
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linux,git,oracle&titles=true)
