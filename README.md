@@ -1,11 +1,12 @@
 ## 👋 Hey there!
+I’m a Computer Engineering student with a builder’s mindset, passionate about low-level systems, processor architecture, and open infrastructure.
 
 ### 💻 Languages & Technologies
 **Languages:**  
-![Frameworks](https://skillicons.dev/icons?i=c,cpp,py,haskell,rust,java,latex,bash&titles=true)
+![Frameworks](https://skillicons.dev/icons?i=c,cpp,rust,py,bash,golang,haskell,ts,java,latex&titles=true)
 
 **Frameworks, Tools & Platforms:**  
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linux,git,oracle&titles=true)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,docker,nodejs,oracle&titles=true)
 
 ---
 
