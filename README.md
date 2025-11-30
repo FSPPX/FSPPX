@@ -3,11 +3,11 @@ I’m a Computer Engineering student with a builder’s mindset, passionate abou
 
 ### 💻 Languages & Technologies
 **Languages:**  
-![Frameworks](https://skillicons.dev/icons?i=c,cpp,rust,py,bash,golang,haskell,ts,java,latex&titles=true)
+![Frameworks](https://skillicons.dev/icons?i=c,cpp,rust,py,bash,golang,haskell,ts,java,latex&titles=true)  
+![VHDL](https://img.shields.io/badge/VHDL-Hardware_Architecture-blueviolet?style=flat&logo=intel&logoColor=white)
 
 **Frameworks, Tools & Platforms:**  
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,docker,nodejs,oracle&titles=true)
-
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,docker,nodejs,oracle,&titles=true)
 ---
 
 <details>
