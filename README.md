@@ -25,11 +25,11 @@ I’m a Computer Engineering student with a builder’s mindset, passionate abou
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
-<details>
+<!-- <details>
   <summary>📊 GitHub Stats</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=fsppx&theme=merko&hide_border=true)</a>
-  <!-- <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsppx&layout=compact&theme=merko&hide_border=true)</a> -->
-</details>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsppx&layout=compact&theme=merko&hide_border=true)</a>
+</details> -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=fsppx&color=green)
